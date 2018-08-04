@@ -1,0 +1,23 @@
+{
+  "name": "zacks-api",
+  "version": "1.0.0",
+  "description": "Zacks.com API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janlukasschroeder/zacks-api.git"
+  },
+  "keywords": [
+    "Zacks",
+    "API"
+  ],
+  "author": "Jan Schroeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janlukasschroeder/zacks-api/issues"
+  },
+  "homepage": "https://github.com/janlukasschroeder/zacks-api#readme"
+}
