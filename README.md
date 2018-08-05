@@ -5,7 +5,7 @@ Fetches data from zacks.com for a given stock ticker.
 # Example Response
 
 ```javascript
-const zacksApi = require("zacks-api");
+const zacksApi = require('zacks-api');
 
 zacksApi.getData('MU').then((result) => console.log(result));
 ```
