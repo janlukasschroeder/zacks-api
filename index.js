@@ -6,7 +6,7 @@ const config = require('./config');
  * @param symbol
  * @returns {Promise}
  */
-module.exports.getZacksData = (symbol) => {
+module.exports.getData = (symbol) => {
 
   const query = config.zacks.baseUrl + `index?t=${symbol.toLowerCase()}`;
 
