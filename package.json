@@ -1,6 +1,6 @@
 {
   "name": "zacks-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Zacks.com API ",
   "main": "index.js",
   "scripts": {
