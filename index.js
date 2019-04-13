@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const h = require('./helpers');
 const config = require('./config');
 

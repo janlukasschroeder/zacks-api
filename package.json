@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/janlukasschroeder/zacks-api/issues"
   },
-  "homepage": "https://github.com/janlukasschroeder/zacks-api#readme"
+  "homepage": "https://github.com/janlukasschroeder/zacks-api#readme",
+  "bin": {
+    "zacks-api": "./index.js"
+  },
 }
